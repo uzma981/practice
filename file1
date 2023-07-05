@@ -1,4 +1,8 @@
 
 Hello World!
 This is my second tex
+<<<<<<< HEAD
 UZMA: This is my third textt
+=======
+Rui's changes This is my third textt
+>>>>>>> e893445380b6098e84e96146acc18db70e5157a6
